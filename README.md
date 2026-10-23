@@ -6,7 +6,7 @@ The system combines **zebra crossing localization**, **traffic light detection**
 
 ## How It Works  
 
-1. **YOLOv8 – Traffic Light Detection**  
+1. **YOLOv10 – Traffic Light Detection**  
    Detects traffic lights in the scene.  
 
 2. **Swin Transformer – Traffic Light Classification**  
